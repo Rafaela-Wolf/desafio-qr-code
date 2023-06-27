@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #abe0fc;
+}
+
+.attribution {
+    font-size: 16px; 
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+}
+
+.attribution a {
+    color: #011c99; 
+    font-weight: bold;
+    font-family: 'Fira Code', monospace;
+}
+
+.frase-abaixo-do-qr {
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+}
+
+.qr-code {
+    text-align: center;
+}
